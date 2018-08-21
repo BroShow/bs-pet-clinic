@@ -1,4 +1,4 @@
-package bs.springframework.bspetclinic;
+package bspetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
